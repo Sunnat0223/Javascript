@@ -1,0 +1,6 @@
+Function nega kerak-?-consol logdan kup busa va keyinroq yana iwlatiwimiz kerak busa function yordam beradi
+call any time,
+dynemic-har hil keyslaga solib iwlatsa buladi
+metod bilan funksiani farqi-funksiani uzimiz yozamiz, metod esa builting funksia
+()-unig oldidagi funksia yoki funksia
+{}-scope

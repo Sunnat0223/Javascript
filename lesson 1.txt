@@ -1,0 +1,12 @@
+parseInt-faqat butun qismini ob beradi soni
+parseFloat-kasr sonni ham ob beradi va bular raqam dan keyigi kurgan narsani qabul qimedi
+===-string yoki number ekanligini xam tekshiradi
+==-faqat malumotni tekshiradi
+!-teskarisini suredi emsmitrue busa false qaytaradi
+ascii
+*-kuapytiradi
+**-darajasini aniqlashtiradi
+b++-1 qushib ketadi
+||-or digani birinchisi false busa ikinchisiga utadi
+&&-and digani agar ikoviyam tugri busa ikinchisini chiqaradi
+??-
